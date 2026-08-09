@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  Building analytics projects, data pipelines & AI-powered workflows.
+  Turning data into insights, building cloud data pipelines,
+  and experimenting with AI-powered workflows.
 </p>
 
 <p align="center">
@@ -34,23 +35,17 @@
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analytics
-`SQL` `Python` `Power BI` `Excel`
+`SQL` `Power BI`
 
 Data Cleaning · EDA · Data Visualization · Dashboarding ·
-Business Analysis · Marketing Analytics
+Business Analysis
 
-### ⚙️ Data Engineering
-`SQL` `Python`
+### ☁️ Data Engineering
+`Google Cloud` `BigQuery` `Airbyte`
 
-ETL/ELT · Data Pipelines · Data Warehousing · Data Modeling
+Data Ingestion · ELT · Data Warehousing · Data Modeling
 
 ### 🤖 AI & Automation
 `LLMs` `AI Agents` `n8n`
 
-Workflow Automation · AI-assisted Analytics · Vibe Coding
-
----
-
-<p align="center">
-  <b>Build → Analyze → Automate → Share</b>
-</p>
+Workflow Automation · AI-assisted Analytics
