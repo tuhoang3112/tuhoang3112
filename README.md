@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zoe 👋</h1>
 
 <p align="center">
-  <b>Data Analyst · Data Engineering · AI Automation</b>
+  <b>Marketing Data & Analytics · Data Engineering · AI Automation</b>
 </p>
 
 <p align="center">
