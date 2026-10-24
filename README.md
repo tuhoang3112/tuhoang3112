@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  I build the data systems I analyze with — pipelines, warehouses, and dashboards
-  a team can actually run on, then use AI to automate the parts that don't need me.
+  I build the data systems I analyze with: pipelines, warehouses, and dashboards
+  a team can actually run on. Then I use AI to automate the parts that don't need me.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 👩‍💻 About Me
 
-📊 Own end-to-end data work: pipelines (Airbyte → BigQuery → Dataform), dashboards (Power BI, Looker Studio), and the analysis built on top
+📊 Own end-to-end data work: pipelines (Airbyte → BigQuery → Dataform), dashboards (Power BI, Looker Studio, Excel, Google Sheet), and the analysis built on top
 
 ⚙️ Design tracking systems (GTM, GA4, UTM) that connect marketing spend to actual conversions
 
@@ -34,8 +34,8 @@
 
 ## 🚀 Featured Projects
 
-**[Facebook Ads Tracking & Lead Attribution](https://zoedatalens.substack.com/p/rebuild-facebook-ads-dashboard)**
-Pipeline (Airbyte → BigQuery → Dataform) pulling Facebook Ads data, matched to CRM leads via UTM — reduced missing-UTM creatives from 208 to 20 through multi-layer fallback logic (metadata + regex). Power BI dashboard tracks the full funnel (view → click → landing page → signup) and cost-per-lead by ad.
+**[Facebook Ads Tracking & Lead Attribution](https://github.com/tuhoang3112/fb-ads-lead-attribution)**
+Pipeline (Airbyte → BigQuery → Dataform) pulling Facebook Ads data, matched to CRM leads via UTM. Reduced missing-UTM creatives from 208 to 20 through multi-layer fallback logic (metadata + regex). Power BI dashboard tracks the full funnel (view → click → landing page → signup) and cost-per-lead by ad.
 
 **[CRM Data Warehouse](https://github.com/tuhoang3112/crm-data-warehouse)**
 End-to-end pipeline: custom Airbyte connector → BigQuery → Dataform (fact/dim models) → Power BI. Consolidates CRM data from a messy, non-standardized source into a single source of truth for reporting.
@@ -48,7 +48,7 @@ Audited and rebuilt tracking across a multi-channel ecosystem (GTM, GA4, BigQuer
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analytics
-`SQL` `Power BI` `Looker Studio`
+`SQL` `Power BI` `Looker Studio` `Excel` `Google Sheets`
 
 Data Cleaning · EDA · Data Visualization · Dashboarding · Business Analysis
 
@@ -58,6 +58,6 @@ Data Cleaning · EDA · Data Visualization · Dashboarding · Business Analysis
 Data Ingestion · ELT · Data Warehousing · Data Modeling
 
 ### 🤖 AI & Automation
-`LLMs` `AI Agents` `n8n`
+`Claude` `n8n` `AI Agents`
 
-Workflow Automation · AI-assisted Analytics
+Workflow Automation · Vibe Coding · AI-assisted Analytics
