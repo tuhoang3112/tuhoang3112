@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/tuhoang-zoe">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue">
   </a>
+  <a href="https://github.com/tuhoang3112/resume">
+    <img src="https://img.shields.io/badge/Resume-View_CV-green">
+  </a>
 </p>
 
 ---
