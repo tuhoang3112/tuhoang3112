@@ -38,13 +38,13 @@
 ## 🚀 Featured Projects
 
 **[Facebook Ads Tracking & Lead Attribution](https://github.com/tuhoang3112/fb-ads-lead-attribution)**
-Pipeline (Airbyte → BigQuery → Dataform) pulling Facebook Ads data, matched to CRM leads via UTM. Reduced missing-UTM creatives from 208 to 20 through multi-layer fallback logic (metadata + regex). Power BI dashboard tracks the full funnel (view → click → landing page → signup) and cost-per-lead by ad.
+Daily pipeline (Airbyte → BigQuery → Dataform) that pulls Facebook Ads data and matches each ad to its CRM leads through UTM, recovering missing UTMs from creative metadata and caption regex. A Power BI dashboard tracks the full funnel (impression → click → landing page view → lead) and cost per lead by ad, backed by AI-assisted ad hoc analysis.
 
 **[CRM Data Warehouse](https://github.com/tuhoang3112/crm-data-warehouse)**
-End-to-end pipeline: custom Airbyte connector → BigQuery → Dataform (fact/dim models) → Power BI. Consolidates CRM data from a messy, non-standardized source into a single source of truth for reporting.
+End-to-end pipeline (custom Airbyte connector → BigQuery → Dataform → Power BI) built after a CRM migration from Pipedrive to Rework CRM. Reconciles historical data, models fact and dimension tables, validates data quality and defines every sales metric once, so reporting runs on a single source of truth.
 
 **[Multi-Channel Tracking & Behavior Analytics](https://github.com/tuhoang3112/zoe-learning-library)**
-Audited and rebuilt tracking across a multi-channel ecosystem (GTM, GA4, BigQuery). Defined a UTM taxonomy applied across every channel, cut unattributed traffic ((direct)/(none)) from ~17% to ~12%.
+Audited and rebuilt tracking across a multi-channel ecosystem (GTM, GA4, BigQuery). Defined one UTM taxonomy applied to every channel, so traffic is attributed the same way everywhere.
 
 ---
 
